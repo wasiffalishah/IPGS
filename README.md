@@ -1,6 +1,3 @@
-Here’s a modern README template you can use for your Student Management System:
-
----
 
 # Student Management System for IPGS
 
