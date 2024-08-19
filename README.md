@@ -29,7 +29,7 @@ This **Student Management System** is a web application built for IPGS, designed
    ```
 2. **Navigate to the project directory:**
    ```bash
-   cd studentms.admin
+   cd studentms/admin
    ```
 3. **Set up the database:**
    - Import the `database.sql` file into your MySQL database.
